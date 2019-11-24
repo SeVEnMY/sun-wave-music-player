@@ -14,3 +14,9 @@ JIANG Zhangnan, ZHAO Tianxin, ZHANG Jinghuai, WAN Yuwei, YANG Zichang
 2. Open anyone of the project source `*.pde` file.
 3. Compile & Run
 4. Enjoy the music and expression interactions :)
+
+## Play with it!
+- On the login interfafce, the player will detect if there's any faces. 
+- When entering the playing interface, smile to get suprise :)
+- Try to change your emotions
+- Try to open your mouth and simulate it to a circle :)
